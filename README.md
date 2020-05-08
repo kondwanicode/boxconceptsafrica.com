@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to BoxConceptsAfrica
 
 You can use the [editor on GitHub](https://github.com/kondwanicode/boxconceptsafrica.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+If you’re looking to design your dream home but don’t know where to begin, you’re in the right place! At [BoxConceptsAfrica](https://kondwanicode.github.io/boxconceptsafrica.com/), we offer readymade house plans created by top floor plan designers. You can download one of our existing plans or place a custom order with different specifications! Browse our wide range of house designs for residential or commercial property in Africa as well as other parts of the world. Take a look at our popular house plan options available in traditional and modern architectural designs. Our team is happy to help if you require further assistance.
 
 ### Markdown
 
